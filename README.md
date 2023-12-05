@@ -45,7 +45,6 @@ Kunal: Automobiles
 4. EDA
 5. Data Visualization
 6. Analysis
-7. 
 
 ## Datasets used: 
 - [AlphaVantage package](https://www.alphavantage.co/documentation/)
