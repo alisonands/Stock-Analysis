@@ -5,7 +5,7 @@
 ## Description of the Project 
 
 This project talks about 
-1. Stock analysis within industries: 
+1. Stock analysis within sectors (4 industries per sector, 5 stocks per industry): 
   - Sourav: Banking - Mortage, Insurance, Asset Management, Credit Services
   - Kunal: Consumer Discretionary - Auto & truck dealerships, Auto Parts, Auto manufacturers, Semiconductors
   - Sakina: Healthcare - Medical Instruments & Supplies, Healthcare plans, Biotech, Drug Manufacturers
