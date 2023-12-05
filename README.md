@@ -1,4 +1,5 @@
 # Stock analysis
+![image](1577053187174.jpg)
 ---
 
 ## Description of the Project 
@@ -38,7 +39,6 @@ The members in this group are:
 
 ## Datasets used: 
 - AlphaVantage package
-- 
 
 ## Code snippets
 `!pip install alpha_vantage`
