@@ -5,7 +5,11 @@
 ## Description of the Project 
 
 This project talks about 
-1. Stock analysis within 4 industries: Automobiles, Healthcare, Tech, Banking.
+1. Stock analysis within industries: 
+  - Sourav: Banking - Mortage, Insurance, Asset Management, Credit Services
+  - Kunal: Consumer Discretionary - Auto & truck dealerships, Auto Parts, Auto manufacturers, Semiconductors
+  - Sakina: Healthcare - Medical Instruments & Supplies, Healthcare plans, Biotech, Drug Manufacturers
+  - Alison: Tech - Semiconductors, Software, Computer hardware, Communication Equipment (Telegram, Zoom)
 2. We will look at their performance/trends before Covid-19, during Covid-19 and after Covid-19.
 3. We will also look for other factors that impacted the stock prices.
 
@@ -27,8 +31,14 @@ The members in this group are:
 3. Sakina Jaffri (@SakinaJaffri)
 4. Kunal Khirwar (@kunalkhirwar)
 
-## Work breakdown strucutre
+## Work breakdown strucutre**
 [Member #] 
+Each member will perform data collection for given sectors:
+Alison: Tech
+Sourav: Banking/Finance
+Sakina: Healthcare
+Kunal: Automobiles
+
 1. Pulling Data from AV
 2. Cleaning Data
 3. Merging Data
@@ -38,7 +48,10 @@ The members in this group are:
 7. 
 
 ## Datasets used: 
-- AlphaVantage package
+- [AlphaVantage package](https://www.alphavantage.co/documentation/)
+
+Alternatives:
+- [Market Data](https://docs.marketdata.app/api/)
 
 ## Code snippets
 `!pip install alpha_vantage`
