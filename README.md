@@ -47,7 +47,8 @@ Kunal: Automobiles
 6. Analysis
 
 ## Datasets used: 
-- [AlphaVantage package](https://www.alphavantage.co/documentation/)
+- [AlphaVantage package](https://www.alphavantage.co/documentation/) (Alison)
+- Yahoo Finance (Sourav)
 
 Alternatives:
 - [Market Data](https://docs.marketdata.app/api/)
