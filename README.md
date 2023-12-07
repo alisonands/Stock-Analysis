@@ -5,7 +5,7 @@
 ## Description of the Project 
 
 This project talks about 
-1. Stock analysis within industries: 
+1. Stock analysis within sectors (4 industries per sector, 5 stocks per industry): 
   - Sourav: Banking - Mortage, Insurance, Asset Management, Credit Services
   - Kunal: Consumer Discretionary - Auto & truck dealerships, Auto Parts, Auto manufacturers, Semiconductors
   - Sakina: Healthcare - Medical Instruments & Supplies, Healthcare plans, Biotech, Drug Manufacturers
@@ -13,7 +13,7 @@ This project talks about
 2. We will look at their performance/trends before Covid-19, during Covid-19 and after Covid-19.
 3. We will also look for other factors that impacted the stock prices.
 
-THe analysis we're going to do is .. 
+The analysis we're going to do is .. 
 1. We will look for the best and worst performing industry. 
 2. Based on the best and worst performing industries, we will look at the best and worst performing stocks.
 3. Find a correlation between volume and average open price.
@@ -47,17 +47,14 @@ Kunal: Automobiles
 6. Analysis
 
 ## Datasets used: 
-- [AlphaVantage package](https://www.alphavantage.co/documentation/)
+- [AlphaVantage package](https://www.alphavantage.co/documentation/) (Alison)
+- Yahoo Finance (Sourav)
 
 Alternatives:
 - [Market Data](https://docs.marketdata.app/api/)
 
 ## Code snippets
 `!pip install alpha_vantage`
-
-## Analysis 
-
-In analyzing the data from TOronto and York, we see that there is an increase in ... 
 
 ## Limitations
 - Limited industries and limited companies per industry
