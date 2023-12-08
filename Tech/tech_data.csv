@@ -1,4 +1,4 @@
-Ticker,sector,Industry,Open,High,Low,Close,Volume
+Ticker,Sector,Industry,Open,High,Low,Close,Volume
 NVDA,Technology,Semiconductors,195.78,199.5,194.5,199.35,8303752.0
 NVDA,Technology,Semiconductors,204.1,213.7,203.75,212.47,22499518.0
 NVDA,Technology,Semiconductors,215.76,218.05,212.69,213.59,14346675.0
