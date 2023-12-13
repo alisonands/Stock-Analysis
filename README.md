@@ -18,6 +18,22 @@ The analysis we're going to do is ..
 2. Based on the best and worst performing industries, we will look at the best and worst performing stocks.
 3. Find a correlation between volume and average open price.
 
+Visualizations
+1. Which stocks are best performing in there respective sectors? (Sourav)
+    - Closing price (Line chart, 4 graphs (top performing stock per industry))
+2. What is the allocation of portfolio for each sector? (Sakina)
+    - Volume (% total volume Pie chart, sectors) (4 pie charts)
+3. What was the correlation between different sectors? (Kunal)
+    - correlation (closing prices, between sectors)
+4. Which sector has the best moving average in there respective industry? (Alison)
+    - Grouped bargraph: price values per sector (xlabel: sectors) --> moving average (1 graph)
+5. Which ticker was most traded in each year? (Alison)
+    - Answered by bar graph(name of stocks in each sector as xticks and height of the bar will be the average of volume)
+6. Which ticker performed the worst/best by year? (Sourav)
+    - Best performing stock per sector, compare over all sectors (Bar graph) --> x: year, y: price change ((open-close)/close * 100)
+7. How stocks performed over each sector for each year? (Kunal)
+    - Best performing stock per sector, compare over all sectors (Bar graph) --> x: year, y: volume (16 graphs total, 4 per year for each sector)
+
 The questions we're going to answer are: 
 1. What would be the best industry to invest in?
 2. What industry is the most resilient to pandemic?
