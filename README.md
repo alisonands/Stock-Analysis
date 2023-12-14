@@ -21,8 +21,8 @@ The analysis we're going to do is ..
 Visualizations
 1. Which stocks are best performing in there respective sectors? (Sourav)
     - Closing price (Line chart, 4 graphs (top performing stock per industry))
-2. What is the allocation of portfolio for each sector? (Sakina)
-    - Volume (% total volume Pie chart, sectors) (4 pie charts)
+2. Allocation of portfolio for each Industry?  (Sakina)
+    - Volume (% total volume Pie chart, industry) – 4 Pie charts
 3. What was the correlation between different sectors? (Kunal)
     - correlation (closing prices, between sectors)
 4. Which sector has the best moving average in there respective industry? (Alison)
@@ -33,6 +33,8 @@ Visualizations
     - Best performing stock per sector, compare over all sectors (Bar graph) --> x: year, y: price change ((open-close)/close * 100)
 7. How stocks performed over each sector for each year? (Kunal)
     - Best performing stock per sector, compare over all sectors (Bar graph) --> x: year, y: volume (16 graphs total, 4 per year for each sector)
+8. Allocation of portfolio for each Sector?
+    - Volume (% total volume Pie chart, Sector) – 1 Grand Pie chart
 
 The questions we're going to answer are: 
 1. What would be the best industry to invest in?
