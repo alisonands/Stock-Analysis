@@ -2,8 +2,6 @@
 ![image](1577053187174.jpg)
 ---
 
-## Description of the Project 
-
 This project talks about 
 1. Stock analysis within sectors (4 industries per sector, 5 stocks per industry): 
   - Sourav: Banking - Mortage, Insurance, Asset Management, Credit Services
