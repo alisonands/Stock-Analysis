@@ -33,7 +33,7 @@ Visualizations
     - Best performing stock per sector, compare over all sectors (Bar graph) --> x: year, y: price change ((open-close)/close * 100)
 7. How stocks performed over each sector for each year? (Kunal)
     - Best performing stock per sector, compare over all sectors (Bar graph) --> x: year, y: volume (16 graphs total, 4 per year for each sector)
-8. Allocation of portfolio for each Sector?
+8. Allocation of portfolio for each Sector? (Sakina)
     - Volume (% total volume Pie chart, Sector) – 1 Grand Pie chart
 
 The questions we're going to answer are: 
