@@ -1,0 +1,20 @@
+"CPRT" - Copart, Inc.
+"KMX"  - CarMax, Inc.
+"PAG"  - Penske Automotive Group, Inc.
+"LAD"  - Lithia Motors, Inc.
+"AN"   - AutoNation, Inc.
+"MBLY" - Mobileye Global Inc.
+"APTV" - Aptiv PLC
+"MGA"  - Magna International Inc.
+"LKQ"  - LKQ Corporation
+"ALV"  - Autoliv, Inc.
+"TSLA" - Tesla, Inc.
+"TM"   - Toyota Motor Corporation
+"HMC"  - Honda Motor Co., Ltd.
+"GM"   - General Motors Company
+"F"    - Ford Motor Company
+"NVDA" - NVIDIA Corporation
+"TSM"  - Taiwan Semiconductor Manufacturing Company Limited
+"AVGO" - Broadcom Inc.
+"AMD"  - Advanced Micro Devices, Inc.
+"INTC" - Intel Corporation
