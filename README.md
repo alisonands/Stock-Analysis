@@ -1,5 +1,5 @@
 # Stock analysis
-![image](1577053187174.jpg)
+![image](Tech/1577053187174.jpg)
 ---
 
 This project talks about 
