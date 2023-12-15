@@ -9,6 +9,8 @@ The members in this group are:
 
 This repo contains 4 folders that contains the files with the Jupyter notebooks that extract the required data for analysis in each sector. These Jupyter notebooks use AlphaVantage and Yahoo Finance modules to extract the data for the ticker symbols for their respective sectors. The outputs of the csv files that will be merged used for the final analysis. 
 
+
+
 Packages used: 
   - For data extraction: [AlphaVantage package](https://www.alphavantage.co/documentation/), yfinance
   - Visualizations: Matplotlib, Plotly, Seaborn, hvplot
@@ -30,6 +32,8 @@ Alternatives:
 
 ## Code snippets
 `!pip install alpha_vantage`
+`!pip install yfinance`
 
 ## Limitations
-- Limited industries and limited companies per industry
+While our analysis provides valuable insights, it is essential to acknowledge certain limitations. The data used in the analysis represents a small fraction of the entire stock market, and should be acknowledged as a limitation, as this is not fully representative of the entire market.
+Factors such as market sentiment, geopolitical events(i.e. The war in Ukraine, 2022), and unforeseen circumstances may also not be fully captured in our methodology.
