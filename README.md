@@ -9,7 +9,12 @@ The members in this group are:
 
 This repo contains 4 folders that contains the files with the Jupyter notebooks that extract the required data for analysis in each sector. These Jupyter notebooks use AlphaVantage and Yahoo Finance modules to extract the data for the ticker symbols for their respective sectors. The outputs of the csv files that will be merged used for the final analysis. 
 
-
+| **Automobiles**          | **Healthcare**                   | **Technology** | **Finance**      |
+|--------------------------|----------------------------------|----------------|------------------|
+| Semiconductors           | Medical Instruments and Supplies | Semiconductors | Credit Services  |
+| Auto & Truck Dealerships | Healthcare Plan                  | Software       | Asset Management |
+| Auto Parts               | Biotechnology                    | Consumer Tech  | Insurance        |
+| Auto Manufacturers       | Drug Manufacturers               | Info Tech      | Mortgage         |
 
 Packages used: 
   - For data extraction: [AlphaVantage package](https://www.alphavantage.co/documentation/), yfinance
