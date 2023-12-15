@@ -1,11 +1,13 @@
 # Stock analysis
 ![image](Tech/1577053187174.jpg)
 ---
-The members in this group are: 
+##### Members
 1. Alison Andrade (@alisonands2000)
 2. Sourav Kumar (@s0uravk)
 3. Sakina Jaffri (@SakinaJaffri)
 4. Kunal Khirwar (@kunalkhirwar)
+
+
 In this repo, we perform an analysis of the stock market over 4 sectors: Automobiles, Healthcare, Technology and Finance to determine the performance of the stock market in these sectors throughtout the duration of the COVID-19 pandemic.
 This repo contains 4 folders that contains the files with the Jupyter notebooks that extract the required data for analysis in each sector. These Jupyter notebooks use AlphaVantage and Yahoo Finance modules to extract the data for the ticker symbols for their respective sectors. The outputs of the csv files that will be merged used for the final analysis. The data was broken down as follows. 
 
