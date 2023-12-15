@@ -21,7 +21,7 @@ Packages used:
   - For data extraction: [AlphaVantage package](https://www.alphavantage.co/documentation/), yfinance
   - Visualizations: Matplotlib, Plotly, Seaborn, hvplot
   - Analysis: Pandas, Numpy, Scipy
-
+ 
 This report answers the following questions:
 1. Which stocks are best performing in their respective sectors? (Sourav)
 2. Which ticker performed the worst/best by year? (Sourav) 
@@ -31,10 +31,6 @@ This report answers the following questions:
 6. Which stock was most traded in each year? (Alison)
 7. What is the allocation of portfolio for each Sector? (Sakina)
 8. What is the allocation of portfolio for each Industry?  (Sakina)
-
-
-Alternatives:
-- [Market Data](https://docs.marketdata.app/api/)
 
 ## Code snippets
 `!pip install alpha_vantage`
