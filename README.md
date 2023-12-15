@@ -1,20 +1,34 @@
 # Stock analysis
 ![image](Tech/1577053187174.jpg)
 ---
+The members in this group are: 
+1. Alison Andrade (@alisonands2000)
+2. Sourav Kumar (@s0uravk)
+3. Sakina Jaffri (@SakinaJaffri)
+4. Kunal Khirwar (@kunalkhirwar)
 
-This project talks about 
-1. Stock analysis within sectors (4 industries per sector, 5 stocks per industry): 
-  - Sourav: Banking - Mortage, Insurance, Asset Management, Credit Services
-  - Kunal: Consumer Discretionary - Auto & truck dealerships, Auto Parts, Auto manufacturers, Semiconductors
-  - Sakina: Healthcare - Medical Instruments & Supplies, Healthcare plans, Biotech, Drug Manufacturers
-  - Alison: Tech - Semiconductors, Software, Computer hardware, Communication Equipment (Telegram, Zoom)
-2. We will look at their performance/trends before Covid-19, during Covid-19 and after Covid-19.
-3. We will also look for other factors that impacted the stock prices.
+This repo contains 4 folders that contains the files with the Jupyter notebooks that extract the required data for analysis in each sector. These Jupyter notebooks use AlphaVantage and Yahoo Finance modules to extract the data for the ticker symbols for their respective sectors. The outputs of the csv files that will be merged used for the final analysis. 
 
-The analysis we're going to do is .. 
-1. We will look for the best and worst performing industry. 
-2. Based on the best and worst performing industries, we will look at the best and worst performing stocks.
-3. Find a correlation between volume and average open price.
+Packages used: 
+  - For data analysis: AlphaVantage, yfinance
+  - Visualizations: Matplotlib, Plotly, Seaborn, hvplot
+  - Analysis: Pandas, Numpy, Scipy
+
+This project goes over the following:
+- Stock price analysis within various sectors as well as industries and visualize the data.
+- Furthermore, it gives volume of stock traded in each sector and each industry.
+- And find any correlation within sectors to check if one stock was affected by another stock within the sector.
+- As well as calculates moving average in each sector and find the most traded stock in each year.
+
+This report answers the following questions:
+1. Which stocks are best performing in their respective sectors? (Sourav)
+2. [Which ticker performed the worst/best by year?](Question 1 & 2.ipynb) (Sourav) 
+3. How did each sector perform for each year regarding average volume? (Kunal)
+4. Find a correlation between industries within each sector. (Kunal)
+5. What does the moving average look like for each industry? (Alison)
+6. Which stock was most traded in each year? (Alison)
+7. What is the allocation of portfolio for each Sector? (Sakina)
+8. What is the allocation of portfolio for each Industry?  (Sakina)
 
 Visualizations
 1. Which stocks are best performing in there respective sectors? (Sourav)
@@ -34,18 +48,7 @@ Visualizations
 8. Allocation of portfolio for each Sector? (Sakina)
     - Volume (% total volume Pie chart, Sector) – 1 Grand Pie chart
 
-The questions we're going to answer are: 
-1. What would be the best industry to invest in?
-2. What industry is the most resilient to pandemic?
-3. Is there a correlation between the 4 industries?
 
-## Members of the group
-
-The members in this group are: 
-1. Alison Andrade (@alisonands2000)
-2. Sourav Kumar (@s0uravk)
-3. Sakina Jaffri (@SakinaJaffri)
-4. Kunal Khirwar (@kunalkhirwar)
 
 ## Work breakdown strucutre**
 [Member #] 
