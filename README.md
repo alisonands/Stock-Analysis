@@ -7,7 +7,7 @@ The members in this group are:
 3. Sakina Jaffri (@SakinaJaffri)
 4. Kunal Khirwar (@kunalkhirwar)
 
-This repo contains 4 folders that contains the files with the Jupyter notebooks that extract the required data for analysis in each sector. These Jupyter notebooks use AlphaVantage and Yahoo Finance modules to extract the data for the ticker symbols for their respective sectors. The outputs of the csv files that will be merged used for the final analysis. 
+This repo contains 4 folders that contains the files with the Jupyter notebooks that extract the required data for analysis in each sector. These Jupyter notebooks use AlphaVantage and Yahoo Finance modules to extract the data for the ticker symbols for their respective sectors. The outputs of the csv files that will be merged used for the final analysis. The data was broken down as follows. 
 
 | **Automobiles**          | **Healthcare**                   | **Technology** | **Finance**      |
 |--------------------------|----------------------------------|----------------|------------------|
